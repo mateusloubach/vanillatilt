@@ -1,6 +1,6 @@
 <h1 align="center">:white_circle: Pick Your Starter :red_circle:</h1>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/49b09d4f-d381-4b35-bdc4-51259584e2cb/deploy-status)](https://app.netlify.com/sites/pickmystarter/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49b09d4f-d381-4b35-bdc4-51259584e2cb/deploy-status)](https://app.netlify.com/sites/pickmystarter/deploys) [Click Here to view site!](https://pickmystarter.netlify.app/)
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/mateusloubach/vanillatilt">

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>3D Parallax</title>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <h2 class="name">BULBASAUR</h2>
+            <a href="#" class="buy">CHOOSE</a>
+            <div class="circle"></div>
+            <img src="./img/bulbasauro.png" alt="shoes" class="product">
+        </div>
+
+        <div class="box">
+            <h2 class="name">CHARMANDER</h2>
+            <a href="#" class="buy">CHOOSE</a>
+            <div class="circle"></div>
+            <img src="./img/charmander.png" alt="shoes" class="product">
+        </div>
+
+        <div class="box">
+            <h2 class="name">SQUIRTLE</h2>
+            <a href="#" class="buy">CHOOSE</a>
+            <div class="circle"></div>
+            <img src="./img/squirtle.png" alt="shoes" class="product">
+        </div>
+    </div>
+    <script src="./vanilla-tilt.js"></script>
+    <script>
+        VanillaTilt.init(document.querySelectorAll(".box"), {
+            max: 25,
+            speed: 400
+	});
+    </script>
+</body>
+</html>

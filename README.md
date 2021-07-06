@@ -32,11 +32,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) ou [Atom](https://atom.io/)
 
 
-### 🧭 Rodando a aplicação web (Front End)
+### 🧭 Rodando a aplicação web (Front-End)
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/mateusloubach/teste-front-end
+$ git clone https://github.com/mateusloubach/vanillatilt
 
 # Vá para a pasta da aplicação Front End
 $ cd teste-front-end

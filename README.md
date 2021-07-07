@@ -11,7 +11,7 @@
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="poke" title="#poke" src="https://github.com/mateusloubach/mateusloubach.github.io/blob/master/third.gif" width="600px"> <br>
+  <img alt="poke" title="#poke" src="https://github.com/mateusloubach/vanillatilt/blob/main/third.gif" width="600px"> <br>
 </p>
 
 ## 🛠 Tecnologias

@@ -39,13 +39,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/mateusloubach/vanillatilt
 
 # Vá para a pasta da aplicação Front End
-$ cd teste-front-end
+$ cd vanillatilt
 
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm start
+# utilize o Open with Live Server ou Extensões.
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
